@@ -6,6 +6,10 @@ header {
 }
 
 header h1 {
+    text-align: center; /* Horizontally centers the text */
+    margin: 0; /* Removes default margin */
+}
+header h2 {
     margin: 0; /* Removes default margin */
 }
 
@@ -32,5 +36,3 @@ th {
     background-color: #333;
     color: #fff;
 }
-/* You can also adjust other properties like background-position, background-color, and more as needed. */
-
