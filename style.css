@@ -42,3 +42,16 @@ th {
     background-color: #d82533;
     color: #fff;
 }
+
+.iframe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Optional, sets the container's height to the viewport height */
+}
+
+iframe {
+    /* Adjust the width and height of the iframe as needed */
+    width: 800px; /* Example width */
+    height: 400px; /* Example height */
+}
