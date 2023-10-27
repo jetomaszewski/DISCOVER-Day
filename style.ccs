@@ -1,7 +1,19 @@
+header {
+    text-align: center; /* Horizontally centers the text */
+    padding: 20px; /* Adds padding for spacing */
+    background-color: #333; /* Optional background color for the header */
+    color: #fff; /* Optional text color for the header */
+}
+
+header h1 {
+    margin: 0; /* Removes default margin */
+}
+
 body {
     background-image: url('SAlogo.png'); /* Replace 'background-image.jpg' with the URL or path to your image */
     background-size: cover; /* Adjusts the image to cover the entire viewport */
     background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the background image horizontally and vertically */
 }
 
 /* You can also adjust other properties like background-position, background-color, and more as needed. */
