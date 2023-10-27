@@ -16,5 +16,20 @@ body {
     background-position: center center; /* Centers the background image horizontally and vertically */
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+}
 /* You can also adjust other properties like background-position, background-color, and more as needed. */
 
