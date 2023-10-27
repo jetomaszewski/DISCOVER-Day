@@ -1,41 +1,21 @@
 header {
-    text-align: center; /* Horizontally centers the text */
-    padding: 20px; /* Adds padding for spacing */
-    background-color: #333; /* Optional background color for the header */
-    color: #fff; /* Optional text color for the header */
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
 }
 
-h1 {
-    text-align: center; /* Horizontally centers the text */
-    margin: 0; /* Removes default margin */
+h1, h2, h3 {
+    text-align: center;
+    margin: 0;
 }
-h2 {
-    text-align: center; /* Horizontally centers the text */
-    margin: 0; /* Removes default margin */
-}
-h3 {
-    text-align: center; /* Horizontally centers the text */
-    margin: 0; /* Removes default margin */
-}
+
 p {
-    text-align: center; /* Centers the body text */
+    text-align: center;
 }
+
 .banner {
-    text-align: center; /* Center-align the image */
-}
-
-.banner img {
-    max-width: 100%; /* Ensure the image does not exceed the width of the container */
-    height: auto; /* Maintain the image's aspect ratio */
-}
-
-body {
-/*    background-image: url('background-image.jpeg'); 
-    background-size: 50%; 
-    background-repeat: no-repeat; 
-    background-position: center center; 
-    background-color: rgba(255, 255, 255, 0.3); 
-    */
+    text-align: center;
 }
 
 table {
