@@ -27,7 +27,7 @@ p {
     text-align: center; /* Center-align the contents horizontally */
 }
 
-table1 {
+.table1 {
     width: 100%;
     border-collapse: collapse;
 }
@@ -43,7 +43,7 @@ th {
     color: #fff;
 }
 
-table2 {
+.table2 {
     width: 100%;
     border-collapse: collapse;
 }
@@ -69,5 +69,5 @@ th {
 iframe {
     /* Adjust the width and height of the iframe as needed */
     width: 800px; /* Example width */
-    height: 1600px; /* Example height */
+    height: 100%; /* Example height */
 }
