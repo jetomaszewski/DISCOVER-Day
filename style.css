@@ -27,7 +27,23 @@ p {
     text-align: center; /* Center-align the contents horizontally */
 }
 
-table {
+table1 {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: none;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #d82533;
+    color: #fff;
+}
+
+table2 {
     width: 100%;
     border-collapse: collapse;
 }
