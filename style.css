@@ -5,12 +5,20 @@ header {
     color: #fff; /* Optional text color for the header */
 }
 
-header h1 {
+h1 {
     text-align: center; /* Horizontally centers the text */
     margin: 0; /* Removes default margin */
 }
-header h2 {
+h2 {
+    text-align: center; /* Horizontally centers the text */
     margin: 0; /* Removes default margin */
+}
+h3 {
+    text-align: center; /* Horizontally centers the text */
+    margin: 0; /* Removes default margin */
+}
+p {
+    text-align: center; /* Centers the body text */
 }
 .banner {
     text-align: center; /* Center-align the image */
