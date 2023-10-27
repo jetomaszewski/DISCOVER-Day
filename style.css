@@ -12,13 +12,22 @@ header h1 {
 header h2 {
     margin: 0; /* Removes default margin */
 }
+.banner {
+    text-align: center; /* Center-align the image */
+}
+
+.banner img {
+    max-width: 100%; /* Ensure the image does not exceed the width of the container */
+    height: auto; /* Maintain the image's aspect ratio */
+}
 
 body {
-    background-image: url('background-image.jpeg'); /* Replace 'background-image.jpg' with the URL or path to your image */
-    background-size: 50%; /* Adjusts the image to cover the entire viewport */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    background-position: center center; /* Centers the background image horizontally and vertically */
-    background-color: rgba(255, 255, 255, 0.3); /* Adjust the last value (alpha) for transparency */
+/*    background-image: url('background-image.jpeg'); 
+    background-size: 50%; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    background-color: rgba(255, 255, 255, 0.3); 
+    */
 }
 
 table {
