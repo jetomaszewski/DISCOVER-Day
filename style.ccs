@@ -10,7 +10,7 @@ header h1 {
 }
 
 body {
-    background-image: url('SAlogo.png'); /* Replace 'background-image.jpg' with the URL or path to your image */
+    background-image: url('background-image.jpeg'); /* Replace 'background-image.jpg' with the URL or path to your image */
     background-size: cover; /* Adjusts the image to cover the entire viewport */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-position: center center; /* Centers the background image horizontally and vertically */
