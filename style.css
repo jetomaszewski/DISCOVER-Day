@@ -32,13 +32,14 @@ p {
     border-collapse: collapse;
 }
 
-th, td {
+.table1 th, 
+.table1 td {
     border: none;
     padding: 8px;
     text-align: center;
 }
 
-th {
+.table1 th {
     background-color: #d82533;
     color: #fff;
 }
@@ -48,13 +49,14 @@ th {
     border-collapse: collapse;
 }
 
-th, td {
+.table2 th, 
+.table2 td {
     border: 1px solid #d82533;
     padding: 8px;
     text-align: center;
 }
 
-th {
+.table2 th {
     background-color: #d82533;
     color: #fff;
 }
