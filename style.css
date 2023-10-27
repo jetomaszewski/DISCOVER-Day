@@ -14,6 +14,11 @@ p {
     text-align: center;
 }
 
+.section {
+    margin-bottom: 20px; /* Adds space below each section */
+    padding: 20px; /* Adds space inside each section */
+}
+
 .banner {
     text-align: center;
 }
